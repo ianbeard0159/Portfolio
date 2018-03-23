@@ -1,4 +1,4 @@
-# Portfolio
+# Web Projects
 
 Color Picker Project
 - Link: http://default-environment.6pmpsbppdx.us-east-1.elasticbeanstalk.com/
